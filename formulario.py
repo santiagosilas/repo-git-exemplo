@@ -12,3 +12,5 @@ class Formulario:
         self.stop = True
     def turn_off(self):
 	pass
+    def turn_on(self):
+        pass
