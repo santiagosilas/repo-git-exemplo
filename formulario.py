@@ -3,7 +3,7 @@ class Formulario:
         self.StopButton = Button()
 	self.PauseButton = Button()
     def play_music(self):
-	pass
+	self.play = True
     def pause_music(self):
 	self.pause = True
     def stop_music(self):
