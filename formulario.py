@@ -10,3 +10,5 @@ class Formulario:
 	self.pause = True
     def stop_music(self):
         self.stop = True
+    def turn_off(self):
+	pass
